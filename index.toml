@@ -142,7 +142,7 @@ hash = "3d480ecb5ab460f1b0c125f95541069ab16153e89e9866b2f9216a38b5e9becc"
 
 [[files]]
 file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
-hash = "368a17d8162e7eb7eb81d3caebc40782dabb8c4aa79e6010aecd7fa2eb5bb561"
+hash = "c0672040da9be1f5dc2f30fb1e71eb921c4ece527624f35387a02eceee1039c1"
 
 [[files]]
 file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazyyyyy.pw.toml"
-hash = "b41f29d79cd34095fff5d21c6bb7892dcaa1f6783773709ae28adc743d3ff558"
+hash = "feaf5da7e76cb0f4c33439c5a3373e8952aea11206c1628a5fc8362abf543777"
 metafile = true
 
 [[files]]
