@@ -1,13 +1,13 @@
 name = "Radiant Gear"
-filename = "radiantgear-forge-2.1.5+1.20.1.jar"
-side = "client"
+filename = "radiantgear-forge-2.2.0+1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtT9wm5O/versions/97i06Z6R/radiantgear-forge-2.1.5%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AtT9wm5O/versions/dQfDugX5/radiantgear-forge-2.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "97524902ec80b21bee94ba6f88a3503360637264"
+hash = "525b3ebccece23ed6bf4945a1c054c21599fc083"
 
 [update]
 [update.modrinth]
 mod-id = "AtT9wm5O"
-version = "97i06Z6R"
+version = "dQfDugX5"

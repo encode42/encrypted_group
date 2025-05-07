@@ -1,6 +1,11 @@
-/.vscode/
-/util
+# IDEs
+/.idea/
+
+# NixOS files
+/.direnv/
 
 # Packwiz
 /build/
+/util/
+
 /*.mrpack

@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-forge-1.20.1-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTnHoofC/versions/us0xTiLi/liteminer-forge-1.20.1-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "4540cdf988379ee174216c9a429f735c05c5762f"
+
+[update]
+[update.modrinth]
+mod-id = "VTnHoofC"
+version = "us0xTiLi"

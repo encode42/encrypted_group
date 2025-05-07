@@ -1,0 +1,13 @@
+name = "Backpacked Recipe Patch"
+filename = "backpackedpatch-0.1-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qlFsbPGt/versions/7F3zPP99/backpackedpatch-0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "5dbc6df11b7374d70edcd3572cc983a949ab4576"
+
+[update]
+[update.modrinth]
+mod-id = "qlFsbPGt"
+version = "7F3zPP99"

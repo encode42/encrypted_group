@@ -1,0 +1,13 @@
+name = "CreeperRebalance"
+filename = "creeperrebalance-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IeUK0wXW/versions/fY80pXfy/creeperrebalance-1.0.0.jar"
+hash-format = "sha1"
+hash = "c3601e3f8b6ed783ff3fdce362f04d197f3f9556"
+
+[update]
+[update.modrinth]
+mod-id = "IeUK0wXW"
+version = "fY80pXfy"

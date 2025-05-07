@@ -1,0 +1,13 @@
+name = "Harmful smoke"
+filename = "harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nJnsdzNR/versions/tHFzpIRk/harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "3b4fe2dacdb0480484905075c2f61ef3bb7949a2"
+
+[update]
+[update.modrinth]
+mod-id = "nJnsdzNR"
+version = "tHFzpIRk"

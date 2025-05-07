@@ -13,13 +13,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Set up Go
-      uses: actions/setup-go@v5
-      with:
-        go-version: "1.19"
-
-    - name: Install packwiz
-      run: go install github.com/packwiz/packwiz@latest
+    - name: Set up Nix
+      uses: JRMurr/direnv-nix-action@v4.1.0
 
     - name: Set up Packwiz cache
       uses: actions/cache@v4

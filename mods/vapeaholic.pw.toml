@@ -1,0 +1,13 @@
+name = "Vapeaholic"
+filename = "vapeaholic - Alpha-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WvttbJoq/versions/lrjf5Ytr/vapeaholic%20-%20Alpha-1.0.1.jar"
+hash-format = "sha1"
+hash = "d031f71db92735da7926fe8dbbb8b72adc5bb142"
+
+[update]
+[update.modrinth]
+mod-id = "WvttbJoq"
+version = "lrjf5Ytr"

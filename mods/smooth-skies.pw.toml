@@ -1,0 +1,13 @@
+name = "Smooth Skies"
+filename = "smoothskies-2.10.1+1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvlgIwBD/versions/XaWBqsdK/smoothskies-2.10.1%2B1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "dc80ab7548b39594ef13fd2664fa1c0d7077865860991321f119900f426323280335f31791085b13adc3638b2b97c245248e0a7e36659e396ccee8e5805b7258"
+
+[update]
+[update.modrinth]
+mod-id = "uvlgIwBD"
+version = "XaWBqsdK"

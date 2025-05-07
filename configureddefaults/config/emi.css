@@ -22,6 +22,11 @@
 	index-source: creative;
 
 	/**
+	 * Which sidebar should be searched using the search bar.
+	 */
+	search-sidebar: right;
+
+	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
 	search-tooltip-by-default: true;
@@ -34,7 +39,7 @@
 	/**
 	 * Whether normal search queries should include the stack's tags.
 	 */
-	search-tags-by-default: false;
+	search-tags-by-default: true;
 }
 
 #ui {
@@ -46,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: left-compressed;
+	effect-location: top;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -96,9 +101,20 @@
 	empty-search-sidebar-focus: none;
 
 	/**
-	 * The amount of vertical margin to give in the recipe screen.
+	 * Whether the EMI config button should be visible.
 	 */
-	vertical-margin: 20;
+	emi-config-button-visibility: hidden;
+
+	/**
+	 * Whether the recipe tree button should be visible.
+	 */
+	recipe-tree-button-visibility: hidden;
+
+	/**
+	 * The maximum height the recipe screen will grow to be if space is available in
+	 * pixels.
+	 */
+	maximum-recipe-screen-height: 256;
 
 	/**
 	 * The minimum width of the recipe screen in pixels. Controls how many tabs there
@@ -108,9 +124,14 @@
 	minimum-recipe-screen-width: 176;
 
 	/**
+	 * The amount of vertical margin to give in the recipe screen.
+	 */
+	vertical-margin: 20;
+
+	/**
 	 * Where to show workstations in the recipe screen
 	 */
-	workstation-location: left;
+	workstation-location: bottom;
 
 	/**
 	 * Display cost per batch when hovering a recipe output
@@ -171,7 +192,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
 	 */
-	left-sidebar-header: visible;
+	left-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the left sidebar
@@ -289,12 +310,12 @@
 	/**
 	 * Toggle the visibility of EMI.
 	 */
-	toggle-visibility: "key.keyboard.unknown";
+	toggle-visibility: "ctrl key.keyboard.o";
 
 	/**
-	 * Focuse the search bar.
+	 * Focuses the search bar.
 	 */
-	focus-search: "key.keyboard.unknown";
+	focus-search: "ctrl key.keyboard.f";
 
 	/**
 	 * Clears the search bar.
@@ -304,24 +325,26 @@
 	/**
 	 * Display the recipes for creating a stack.
 	 */
+	view-recipes: "key.keyboard.r";
 	view-recipes: "key.mouse.left";
 
 	/**
 	 * Display the recipes that can be created using a stack.
 	 */
+	view-uses: "key.keyboard.u";
 	view-uses: "key.mouse.right";
 
 	/**
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.f";
+	favorite: "key.keyboard.a";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
 	 * recipe.
 	 */
-	default-stack: "key.keyboard.unknown";
+	default-stack: "ctrl key.mouse.left";
 
 	/**
 	 * Display the recipe tree for a given stack.
@@ -336,7 +359,7 @@
 	/**
 	 * Return to the previous page in EMI.
 	 */
-	back: "key.keyboard.unknown";
+	back: "key.keyboard.backspace";
 
 	/**
 	 * Return to the next page in EMI after going back.

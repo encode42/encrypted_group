@@ -1,0 +1,12 @@
+{
+  "auto_update": false,
+  "version": "1.5.1",
+  "waves": [
+    {
+      "dimensions": [
+        "minecraft:overworld"
+      ],
+      "sea_level": 63
+    }
+  ]
+}

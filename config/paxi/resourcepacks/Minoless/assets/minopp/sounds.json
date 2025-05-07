@@ -1,0 +1,7 @@
+{
+  "game.draw_multi": { "sounds": [ "minecraft:damage\/hit1" ], "subtitle": "subtitles.minopp.sigh", "replace": true },
+  "game.win": { "sounds": [ "minecraft:random\/levelup" ], "subtitle": "subtitles.minopp.win", "replace": true },
+  "game.mino_shout": { "sounds": [ "minecraft:mob\/allay\/idle_without_item4" ], "subtitle": "subtitles.minopp.mino_shout", "replace": true },
+  "game.mino_shout_invalid": { "sounds": [ "minecraft:mob\/allay\/hurt1" ], "subtitle": "subtitles.minopp.mino_shout_invalid", "replace": true },
+  "game.doubt_success": { "sounds": [ "minecraft:random\/successful_hit" ], "subtitle": "subtitles.minopp.doubt_success", "replace": true }
+}

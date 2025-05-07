@@ -1,0 +1,13 @@
+name = "Dangerous Firework"
+filename = "dangerous_firework-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WlB6hxu3/versions/LiPqaVPu/dangerous_firework-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "ca3f0ec7b43c4de5fe7aa7ea58332a6d5c126c61"
+
+[update]
+[update.modrinth]
+mod-id = "WlB6hxu3"
+version = "LiPqaVPu"

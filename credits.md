@@ -1,3 +1,16 @@
+# v3
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+  * [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [CravenCraft's Bloody Bits](https://github.com/encode42/BloodyBits)
+  * Fork with a fix to prevent a divide-by-zero bug.
+- [Cosmetic Armor Reworked](https://github.com/encode42/CosmeticArmorReworked)
+  * Fork with the ability to disable the armor visibility toggle.
+- [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
+- [Tiny Alex's Caves Tweaks](https://www.curseforge.com/minecraft/mc-mods/tact)
+- [Vinery](https://github.com/encode42/Vinery)
+  * Fork that modifies jungle grapes food properties.
+
 # v2
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
   * [ApoticAttributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
@@ -16,7 +29,7 @@
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
 - [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [Sophisticated Backpacks](sophisticated-backpacks)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
   * [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 
 # v1

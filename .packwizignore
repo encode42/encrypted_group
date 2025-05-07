@@ -11,4 +11,9 @@
 # Packwiz files
 /*.mrpack
 /build/
-/go.sum
+
+# NixOS files
+/.direnv/
+/flake.nix
+/flake.lock
+/.envrc

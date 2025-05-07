@@ -1,0 +1,13 @@
+name = "Happiness (is a) Warm Gun"
+filename = "HWGMod-connector-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SPMW1tzD/versions/q9xvCTPb/HWGMod-connector-1.20.1-2.0.2.jar"
+hash-format = "sha1"
+hash = "96933d60a500ab8e2d01ca17c64275ac068f4c21"
+
+[update]
+[update.modrinth]
+mod-id = "SPMW1tzD"
+version = "q9xvCTPb"
