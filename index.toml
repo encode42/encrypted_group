@@ -141,6 +141,42 @@ file = "config/paxi/resourcepacks/Minoless/pack.mcmeta"
 hash = "3d480ecb5ab460f1b0c125f95541069ab16153e89e9866b2f9216a38b5e9becc"
 
 [[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
+hash = "368a17d8162e7eb7eb81d3caebc40782dabb8c4aa79e6010aecd7fa2eb5bb561"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "cb280c8a311d5d019dcdcff54abb793f2e245b5ca3f4e08023c58651f9c452da"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "16753602fbb2182e8f520e8e3a1a65d8dedacb96ce1a04c47d065399fd4f478a"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "2bf503c16ca778c203c2e1594eb534b53c02b1ce24baa9ffafe6b45cf5c019d8"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "7dd9b6a9010772c92440a7d115ba3da8baa661e9a9051f9decff0df6df5ada65"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "7716c4e43975fac9d906927803a2f7344015efa1558e71c3be53eccd18e3d0fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "90cee97159d917e6c99055445b71d9845c4e10a321dfd11a3a2673965e2cf1c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/pack.mcmeta"
+hash = "111ab48a9df1f2baab04684bd8373201aebcdc15aa4c0d293b7869e91172db20"
+
+[[files]]
+file = "config/paxi/resourcepacks/encrypted group/pack.png"
+hash = "8cd2d183af9a2a4e11dda17571c4791b4595de5957e1d5e49d33b2e938aa3704"
+
+[[files]]
 file = "config/regions_unexplored/ru-common.toml"
 hash = "45df19bf00d0332e2e6416d34c5e14b6c574234f52db8c5236c09db982629075"
 
@@ -150,7 +186,7 @@ hash = "c7a3293896de72745d572746fde7ebae4183105a1630daec93112191a8fd8dc2"
 
 [[files]]
 file = "config/sporeconfig.toml"
-hash = "8886e5eb3eb48069be46de22759c313c5da40f35dc250c3138e56fb6c44961d4"
+hash = "735964f072ebcff2dd3e7bb3924b8abc9d694382330107e10613ac471a7c6414"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
@@ -330,7 +366,7 @@ hash = "17cf7c29141d233b8ba3ced4958f1246ee76c5ca488029ecd62a29e46083bd24"
 
 [[files]]
 file = "credits.md"
-hash = "6f3674099a745068b445221871b6c6315c151a0b8042da11c41d4be494d65c7b"
+hash = "82504cc29b64cc5c858af3f3ec59c53a8d054ecb81323f6317fadb3b2fd8b6de"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -365,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/amber.pw.toml"
 hash = "5232d0072c99f0d7605b0f19e6c0aa1b04cff3b2e2efb79a8c0d23a96c8cb598"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "02acb1c526bd9be618d1190290653d021d04f03fb26b7e28555117d176ca0541"
 metafile = true
 
 [[files]]
@@ -1137,11 +1168,6 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "4f294ee1318b3cbff7b2f6a3697078d0edd80d315efaad2167fc268fb2b68816"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "6aab4e9403dcd7aa534fcdb8837e62c5ba2b05aa2c4938aa5bd490427902c97a"
 metafile = true
 
 [[files]]
