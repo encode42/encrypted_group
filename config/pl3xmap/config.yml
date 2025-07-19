@@ -155,6 +155,9 @@ world-settings:
     render:
       renderers:
         basic: overworld_basic
+        inhabited: inhabited
+        biomes: overworld_biomes
+        night: overworld_night
     ui:
       display-name: Overworld
       order: 0
@@ -162,6 +165,8 @@ world-settings:
     render:
       renderers:
         basic: nether_basic
+        inhabited: inhabited
+        biomes: nether_biomes
       skylight: 0
     ui:
       display-name: The Nether
@@ -170,7 +175,20 @@ world-settings:
     render:
       renderers:
         basic: the_end_basic
+        inhabited: inhabited
+        biomes: the_end_biomes
       skylight: 0
     ui:
       display-name: The End
       order: 2
+  cerulean:skies:
+    render:
+      renderers:
+        basic: the_end_basic
+        inhabited: inhabited
+      skylight: 0
+    ui:
+      display-name: Skies
+      order: 3
+  cerulean:dreamscape:
+    enabled: false

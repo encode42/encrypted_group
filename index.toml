@@ -34,7 +34,7 @@ hash = "a27aa71349bf89f49bd74819a78ae49f6eaa3197b73d50c40987112b2e1746b5"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
-hash = "fc0a5702d799699d89c50acbe62c3175eec8ea57d44e7b99673280831cc70c17"
+hash = "da5c5cc885336357dcfc44b6ed0fd4192dcdb5cde9664eba03d11a09e8eb1249"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
