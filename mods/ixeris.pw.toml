@@ -1,0 +1,13 @@
+name = "Ixeris"
+filename = "ixeris-3.2.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/AMAmPY6H/ixeris-3.2.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "06bbc54d0c5833449a344438880441860ccb3f03ebb1afb46442723380370636fe1382187b61c5a5f36418fa3eba2ee6db65fef058bb5d6bcb4957d69f6d893e"
+
+[update]
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "AMAmPY6H"

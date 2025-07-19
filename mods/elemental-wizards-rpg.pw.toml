@@ -1,0 +1,13 @@
+name = "Elemental Wizards (More RPG Classes)"
+filename = "elemental_wizards_rpg-2.4.8-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PeZ4h4i0/versions/sDf9NXdF/elemental_wizards_rpg-2.4.8-1.21.1.jar"
+hash-format = "sha512"
+hash = "c1305d1c9a35b252dc2b83902585a8c8a1354f259dd2d766617d04634f18a98e485fe9d476aa4cb802a77e9e2b971014dc61d6318a21c1d0e67316d7048ecb09"
+
+[update]
+[update.modrinth]
+mod-id = "PeZ4h4i0"
+version = "sDf9NXdF"

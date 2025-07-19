@@ -20,6 +20,9 @@
 		"id": "mention",
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
+	"mentionKeywords": [
+		"@encode42"
+	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
 	"chatSoundCooldown": 0.5

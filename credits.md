@@ -1,3 +1,9 @@
+# v4
+- [Fabric Tailor](https://github.com/MerchantCalico/FabricTailor/tree/modfest/25)
+  * Fork that fixes issues with Mineskin
+- [Galosphere](https://github.com/encode42/Galosphere-Main)
+  * Fork that fixes issues with packet-sidedness on the dedicated server
+
 # v3
 - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
   * [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)

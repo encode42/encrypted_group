@@ -1,0 +1,19 @@
+{
+  "terrainToggle": true,
+  "terrainStart": 0.0,
+  "terrainEnd": 130.0,
+  "rainConfig": {
+    "rainToggle": true,
+    "rainStart": -10.0,
+    "rainStartIndoor": 25.0,
+    "rainEnd": 35.0,
+    "rainFogApplySpeed": 1.0
+  },
+  "waterToggle": true,
+  "waterStart": -20.0,
+  "waterEnd": 45.0,
+  "waterEndSwamp": 25.0,
+  "netherToggle": true,
+  "netherStart": 0.0,
+  "netherEnd": 80.0
+}

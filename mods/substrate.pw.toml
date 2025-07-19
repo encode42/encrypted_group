@@ -1,0 +1,13 @@
+name = "Substrate"
+filename = "substrate-3.1-1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/hPl0EDpc/substrate-3.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "fb9ec98e39bc6160333f7e144e5294c38c3664f2309b587666ef6ee7a9b80a2501c35236d02891e9f33d25309bfedd879763179a9506a107067447c13cdf64fc"
+
+[update]
+[update.modrinth]
+mod-id = "zNuzb72d"
+version = "hPl0EDpc"

@@ -21,7 +21,7 @@
 		"enabledDynamic": true,
 		"id": "inventoryOpen",
 		"soundEvent": "minecraft:ui.toast.in",
-		"shouldPlay": true
+		"shouldPlay": false
 	},
 	"inventoryCloseSoundEffect": {
 		"pitch": 2.0,
@@ -29,17 +29,17 @@
 		"enabledDynamic": false,
 		"id": "inventoryClose",
 		"soundEvent": "minecraft:ui.toast.out",
-		"shouldPlay": true
+		"shouldPlay": false
 	},
 	"inventoryScrollSoundEffect": {
-		"shouldPlay": true,
+		"shouldPlay": false,
 		"pitch": 1.8,
 		"volume": 0.2,
 		"id": "inventoryScroll",
 		"soundEvent": "minecraft:block.note_block.hat"
 	},
 	"inventoryTypingSoundEffect": {
-		"shouldPlay": true,
+		"shouldPlay": false,
 		"pitch": 1.6,
 		"volume": 0.4,
 		"id": "inventoryTyping",

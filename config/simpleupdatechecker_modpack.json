@@ -1,0 +1,13 @@
+{
+	"project_id": "encrypted_group",
+	"version_id": "4.0.0",
+	"display_name": "encrypted group",
+	"display_version": "",
+	"release_type": [
+		"alpha",
+		"beta",
+		"release"
+	],
+	"max_exclusive_version": "5.0.0",
+	"use_version_number_for_display": true
+}

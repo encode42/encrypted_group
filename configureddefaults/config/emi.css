@@ -39,19 +39,19 @@
 	/**
 	 * Whether normal search queries should include the stack's tags.
 	 */
-	search-tags-by-default: true;
+	search-tags-by-default: false;
 }
 
 #ui {
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: toggle-visibility;
 
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: left-compressed;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.

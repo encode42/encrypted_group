@@ -1,0 +1,13 @@
+name = "Galosphere Trimming"
+filename = "galospheretrimming-1.21-1.0.0-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pzuy21SU/versions/vgYSZiGS/galospheretrimming-1.21-1.0.0-quilt.jar"
+hash-format = "sha512"
+hash = "af464481466b375dad3aad54a1bd9e9c9d2a09857084a8729bf4f0d9cb2bbc587c92f92e199d1cb1c0f35616b2471978b201e2c4d90df939f985946e72f3b3f9"
+
+[update]
+[update.modrinth]
+mod-id = "Pzuy21SU"
+version = "vgYSZiGS"

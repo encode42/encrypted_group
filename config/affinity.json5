@@ -1,0 +1,9 @@
+{
+	"renderEntitiesInStereopticonSectionImprints": true,
+	"renderBlockEntitiesInStereopticonSectionImprints": true,
+	"affineInfuserCostPerDurabilityPoint": 50,
+	"maxFluxNodeShards": 5,
+	"theSkyIrisIntegration": true,
+	"stereopticonSectionImprintRecursionLimit": 0,
+	"unfinishedFeatures": false
+}

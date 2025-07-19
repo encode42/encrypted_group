@@ -1,0 +1,52 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+sparklyBlocks = [
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "minecraft:budding_amethyst",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:emerald_block",
+    "minecraft:gold_block",
+    "minecraft:large_amethyst_bud",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:small_amethyst_bud"
+]
+sparklyItems = [
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "minecraft:amethyst_shard",
+    "minecraft:budding_amethyst",
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:emerald",
+    "minecraft:emerald_block",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:gold_block",
+    "minecraft:gold_ingot",
+    "minecraft:golden_apple",
+    "minecraft:golden_axe",
+    "minecraft:golden_boots",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_helmet",
+    "minecraft:golden_hoe",
+    "minecraft:golden_horse_armor",
+    "minecraft:golden_leggings",
+    "minecraft:golden_pickaxe",
+    "minecraft:golden_shovel",
+    "minecraft:large_amethyst_bud",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:small_amethyst_bud",
+    "minecraft:golden_sword",
+    "affinity:emerald_boots",
+    "affinity:emerald_chestplate",
+    "affinity:emerald_helmet",
+    "affinity:emerald_ingot",
+    "affinity:emerald_leggings",
+    "affinity:emerald_nugget",
+    "minecraft:gold_nugget",
+    "minecraft:spectral_arrow"
+]
+sparklyEntities = [
+    "minecraft:allay",
+    "minecraft:glow_squid",
+    "minecraft:spectral_arrow"
+]

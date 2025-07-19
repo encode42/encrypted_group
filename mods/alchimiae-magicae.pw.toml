@@ -1,0 +1,13 @@
+name = "Alchimiae Magicae"
+filename = "alchimiae-fabric-0.3.8-1.21-sgd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUKJfi7E/versions/qLA4E8BB/alchimiae-fabric-0.3.8-1.21-sgd.jar"
+hash-format = "sha512"
+hash = "9d2a743189a7d23fff40fb861854838360264eeb387ac8c06bf532eacbcf9b9756f93d1623dc1c63dcc3350927e1ec965187a308d028a39f5a21310f52fab6b6"
+
+[update]
+[update.modrinth]
+mod-id = "qUKJfi7E"
+version = "qLA4E8BB"

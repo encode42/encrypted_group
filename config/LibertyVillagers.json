@@ -31,10 +31,10 @@
   },
   "villagersProfessionConfig": {
     "armorerHealsGolems": true,
-    "armorerHealsGolemsRange": 128,
-    "clericThrowsPotionsAtPlayers": true,
+    "armorerHealsGolemsRange": 64,
+    "clericThrowsPotionsAtPlayers": false,
     "clericThrowsPotionsAtVillagers": true,
-    "clericThrowsPotionsAtRange": 128,
+    "clericThrowsPotionsAtRange": 16,
     "findCropRangeHorizontal": 10,
     "findCropRangeVertical": 3,
     "preferPlantSameCrop": true,
@@ -47,11 +47,11 @@
     "butchersFeedSheep": false,
     "fletchersFeedChickens": true,
     "leatherworkersFeedCows": true,
-    "shepherdsFeedSheep": false,
-    "feedAnimalsRange": 64,
-    "feedMaxAnimals": 30,
+    "shepherdsFeedSheep": true,
+    "feedAnimalsRange": 48,
+    "feedMaxAnimals": 20,
     "fishermanFish": true,
-    "fishermanFindWaterRange": 64,
+    "fishermanFindWaterRange": 32,
     "fishermanFishingWaterRange": 5,
     "librariansLookAtBooks": true
   },
@@ -65,9 +65,9 @@
     "golemsDontAttackPlayer": true,
     "golemsDontTrampleCrops": true,
     "villagersDontSummonGolems": false,
-    "golemSpawnLimit": true,
-    "golemSpawnLimitCount": 8,
-    "golemSpawnLimitRange": 256,
+    "golemSpawnLimit": false,
+    "golemSpawnLimitCount": 10,
+    "golemSpawnLimitRange": 128,
     "golemStayNearBell": true,
     "golemMaxBellRange": 128,
     "golemMoveToShore": true,
@@ -75,7 +75,7 @@
     "golemsDontClimb": true
   },
   "catsConfig": {
-    "catsSpawnLimit": true,
+    "catsSpawnLimit": false,
     "catsSpawnLimitCount": 10,
     "catsSpawnLimitRange": 128,
     "villageCatsDontDespawn": false,
@@ -91,7 +91,7 @@
   "debugConfig": {
     "villagerStatRange": 256,
     "enableVillagerInfoOverlay": false,
-    "villagerInfoShowsPath": false,
+    "villagerInfoShowsPath": true,
     "enableVillagerBrainDebug": false
   }
 }

@@ -50,19 +50,21 @@
 		"soundEvent": "minecraft:item.crossbow.loading_middle"
 	},
 	"plantPotFillSoundEffect": {
-		"shouldPlay": true,
-		"pitch": 0.5,
+		"pitch": 1.1,
 		"volume": 0.4,
+		"enabledDynamic": true,
 		"id": "plantPotFill",
-		"soundEvent": "minecraft:block.grass.place"
+		"soundEvent": "minecraft:block.grass.place",
+		"shouldPlay": true
 	},
 	"cakeEatSoundEffect": {
-		"shouldPlay": true,
+		"shouldPlay": false,
 		"pitch": 1.2,
 		"volume": 0.7,
 		"id": "cakeEat",
 		"soundEvent": "minecraft:entity.generic.eat"
 	},
 	"enableEnderpearlVariety": true,
-	"disableBlocksEntirely": true
+	"disableBlocksEntirely": true,
+	"ignoredBlocks": []
 }

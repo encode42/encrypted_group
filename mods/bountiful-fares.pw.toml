@@ -1,0 +1,13 @@
+name = "Bountiful Fares"
+filename = "bountifulfares-1.21.1-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YgrSDjlb/versions/2J3zYkPc/bountifulfares-1.21.1-2.0.5.jar"
+hash-format = "sha512"
+hash = "2f94b331588d78b7270a670b1150e2f99cf76e11160b75ea481156bf1b72716560d4a30a5ae9ca0481a449f17da425260cc090b5f3baa48818298f7ceca301d9"
+
+[update]
+[update.modrinth]
+mod-id = "YgrSDjlb"
+version = "2J3zYkPc"

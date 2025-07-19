@@ -1,0 +1,13 @@
+name = "Fletching Expanded"
+filename = "fletching-expanded-0.1.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LkL7pDnr/versions/9GtExgtt/fletching-expanded-0.1.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "d5e37af397359055469c901fce8d79bb0f08b224ffa1a1965397ef839803ed7db79aaec67862b71a9919c12726f13d175415c195e919fe26fdbb8509d8a525d3"
+
+[update]
+[update.modrinth]
+mod-id = "LkL7pDnr"
+version = "9GtExgtt"

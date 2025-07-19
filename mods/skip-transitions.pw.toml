@@ -1,0 +1,13 @@
+name = "Skip Transitions"
+filename = "skiptransitions-1.4.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zoz5HQjH/versions/sHBS8WVg/skiptransitions-1.4.0%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "78a4274923991b3c98daf7c7b0b1e6081ea2d32471b7e4aeb19dba79947148b69422e39c65655c26f0374deb275fdeccc6cbafd66afa8450ee6568db71f69578"
+
+[update]
+[update.modrinth]
+mod-id = "Zoz5HQjH"
+version = "sHBS8WVg"

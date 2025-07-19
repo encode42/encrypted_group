@@ -1,0 +1,13 @@
+name = "Consumable Optimizer"
+filename = "ConsumableOptimizer-1.1.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4alTd2ag/versions/poRQxLi9/ConsumableOptimizer-1.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "588bc1c4b260394db8e044a5dc19b58a7dde1387b6580c207e655704eebeec7f71a8eae040b56437dcd60af8d804cfd3a709d84ecd56766906f7f8d20edc43f8"
+
+[update]
+[update.modrinth]
+mod-id = "4alTd2ag"
+version = "poRQxLi9"
