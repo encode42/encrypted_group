@@ -218,7 +218,7 @@ hash = "9874cdeffec466eb07aba699c183b48036b22841d7fc4c65253fbd5de5c7b8cb"
 
 [[files]]
 file = "credits.md"
-hash = "82504cc29b64cc5c858af3f3ec59c53a8d054ecb81323f6317fadb3b2fd8b6de"
+hash = "4aa6f43c71d0d7e0f44c367181b8f73082db778a0deb8dd304af15bf7eb8e8e5"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/configuration.pw.toml"
-hash = "6747c73fa46c4984f261d02aafaf901ce960df2b4df3bde992d5f6f84bb61868"
+hash = "80a099c80d565da9948836a29d8d89162be789cf27bd0526e7377cdb5bf09866"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
+hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "06e8e86a9344586115a72f599eabd017611381ce57209dd604698ccad5ec933e"
+hash = "bb53f05c22123d1f28a86e60e9f03050eed6113bd0179f01256089ae46ec0b0c"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
-hash = "19ebac8ebb1f5e77fd4d523ef81ea2568df7df007a3d48c8b95d0c227c3e5768"
+hash = "20cc4611e24a4fe1d4ab32d88ef32db5d5b921c010e181a59842030bc926d6d4"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-rpg-classes.pw.toml"
-hash = "99ec0bd23996a34dc576302042f2b73fdfaf7b249a9aba65f710260b1959d99e"
+hash = "aa17b2b19ea82a7b131936d66fbc82b28e54382b2b6ae6a23e2f3384b605c82f"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "58e380b4d66907130eaa480252def925457d1033100571c946aaf9179a1e7bde"
+hash = "44ac966d0108b74cd193af8ce3ba3358613a3ae362cce4ce82bf2c2d493482ff"
 metafile = true
 
 [[files]]
