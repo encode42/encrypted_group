@@ -21,6 +21,10 @@ file = "config/affinity.json5"
 hash = "8d1a4d1c18031af90f936299a5533d1331b130759c52272f66f003cb60b6913e"
 
 [[files]]
+file = "config/desiredservers.json"
+hash = "c84bdc83fce7947882d1b08283a7f4d29a246f1ed6b91fcc171d1f5bf435d61c"
+
+[[files]]
 file = "config/frozenlib.json5"
 hash = "1c95f2e8d4b1bf8d661a896fa8bd203ff4733f22492c1470d88e99575505f500"
 
@@ -46,7 +50,7 @@ hash = "88ae0291aebcdd77e264f253707e085f6ef9ac18f7099d4154c2bdf27413f709"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "994384de4680ba1befd1ec8c31a3d60f2d8edbef93be5775454db76feae5972f"
+hash = "237596e5da29dba33a789a5129ef8ca46e0c9a685d7ce49ad7f30a7ba6ac9483"
 
 [[files]]
 file = "config/spark/config.json"
@@ -384,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "a0eac016f2c9489880bf4ff51c62ba1b4473c29a86d6d0747f82ba58d8ff5504"
 metafile = true
 
 [[files]]
@@ -1078,10 +1087,6 @@ hash = "3a0e123ea8e72e4a11293ea4509efb9be8e46989c0e77a9b95151c64e3f441f2"
 [[files]]
 file = "resourcepacks/encrypted group/pack.png"
 hash = "c704e9b7c69f164af52fcdeefa5177493d9489bcd47555612976b1dc060adaf2"
-
-[[files]]
-file = "servers.dat"
-hash = "2883ab7799b9fafd210b9bcb2f1380fd45075f1a8bdfbc41cdc989a5273f49e4"
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
