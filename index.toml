@@ -209,10 +209,6 @@ file = "configureddefaults/server.properties"
 hash = "125112070f057da9294b5b70b335af1782b914da1e0fc8e6440cad43eaac8426"
 
 [[files]]
-file = "configureddefaults/servers.dat"
-hash = "2883ab7799b9fafd210b9bcb2f1380fd45075f1a8bdfbc41cdc989a5273f49e4"
-
-[[files]]
 file = "configureddefaults/shaderpacks/photon.zip.txt"
 hash = "9874cdeffec466eb07aba699c183b48036b22841d7fc4c65253fbd5de5c7b8cb"
 
@@ -1082,6 +1078,10 @@ hash = "3a0e123ea8e72e4a11293ea4509efb9be8e46989c0e77a9b95151c64e3f441f2"
 [[files]]
 file = "resourcepacks/encrypted group/pack.png"
 hash = "c704e9b7c69f164af52fcdeefa5177493d9489bcd47555612976b1dc060adaf2"
+
+[[files]]
+file = "servers.dat"
+hash = "2883ab7799b9fafd210b9bcb2f1380fd45075f1a8bdfbc41cdc989a5273f49e4"
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
