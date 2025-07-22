@@ -19,7 +19,11 @@
     "cratedelight:apple_crate",
     "cratedelight:golden_apple_crate",
     "pierced:harpoon_crossbow",
-    "pierced:harpoon"
+    "pierced:harpoon",
+    "fwaystones:local_void",
+    "fwaystones:pocket_wormhole",
+    "fwaystones:void_totem",
+    "fwaystones:empty_scroll"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
@@ -38,7 +42,9 @@
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
-  "only_disable_interactions": [],
+  "only_disable_interactions": [
+    "fwaystones:abyss_watcher"
+  ],
   // -----------------------------------------------------------
   // Items here will not be able to be used to attack
   //    Example: minecraft:diamond_sword
