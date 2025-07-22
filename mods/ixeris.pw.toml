@@ -1,5 +1,5 @@
 name = "Ixeris"
-filename = "ixeris-3.2.2+1.21.1-fabric.jar"
+filename = "ixeris-3.2.2+1.21.1-fabric.jar.disabled"
 side = "client"
 
 [download]
