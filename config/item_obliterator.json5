@@ -23,7 +23,7 @@
     "fwaystones:local_void",
     "fwaystones:pocket_wormhole",
     "fwaystones:void_totem",
-    "fwaystones:empty_scroll"
+    "fwaystones:waystone_scroll"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
