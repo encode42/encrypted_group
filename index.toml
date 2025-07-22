@@ -21,7 +21,7 @@ file = "config/affinity.json5"
 hash = "8d1a4d1c18031af90f936299a5533d1331b130759c52272f66f003cb60b6913e"
 
 [[files]]
-file = "config/desiredservers.json"
+file = "config/desiredservers/desiredservers.json"
 hash = "c84bdc83fce7947882d1b08283a7f4d29a246f1ed6b91fcc171d1f5bf435d61c"
 
 [[files]]
@@ -29,8 +29,12 @@ file = "config/frozenlib.json5"
 hash = "1c95f2e8d4b1bf8d661a896fa8bd203ff4733f22492c1470d88e99575505f500"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "2e3b4cd45c551622407113056af110da99d317cc2314e6710503173674045bbf"
+
+[[files]]
 file = "config/item_obliterator.json5"
-hash = "e375304d222a4496aaf09c60aa8bf6d42ece6745ed71abe12001273a7d40dff6"
+hash = "76958588b657206be5079b270baa83ff57faf28ca5e8bd8898091a2cdc077614"
 
 [[files]]
 file = "config/ping-wheel.server.json"
@@ -41,16 +45,12 @@ file = "config/pl3xmap/config.yml"
 hash = "da5c5cc885336357dcfc44b6ed0fd4192dcdb5cde9664eba03d11a09e8eb1249"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "50dd3476227fd3811c01743f2f282c678cc42e8d1d02fb1e518894a3452df02d"
-
-[[files]]
 file = "config/rpg_series/loot_equipment_v2.json"
 hash = "88ae0291aebcdd77e264f253707e085f6ef9ac18f7099d4154c2bdf27413f709"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "237596e5da29dba33a789a5129ef8ca46e0c9a685d7ce49ad7f30a7ba6ac9483"
+hash = "26c951f0a80861cfdfc041409dd831c6da37432576cb6ef8026fff22db64ed31"
 
 [[files]]
 file = "config/spark/config.json"
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "664a777087be82c0d44c26fb6156f1cbcd931b5e099812691c0c69bd5f4392c5"
+hash = "0f8e9a5061ca2b75a1e567be7f44f3111a7f13b0e19f92e3aff11a68ef492b4a"
 metafile = true
 
 [[files]]
@@ -353,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "ff59ad266ecefbf446e44af81a2090d20f6a2d36b771b4113c1267195cf8312a"
-metafile = true
-
-[[files]]
-file = "mods/consumableoptimizer.pw.toml"
-hash = "6a87f759a14fe20755456fb14a3280dce61aef231fe3bea734db87dfefe8b436"
 metafile = true
 
 [[files]]
@@ -517,12 +512,17 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "7583f33c7790249684299188ef8f241f40b885b8dccccb94e0ec43363b6219fd"
+hash = "4a9e849c7ff7d29d568b0dc7ef6b0b1ac86a0432661646204b122c4d5c40806d"
 metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "a149cad8741c056d5d9b0e51ded6232851982c162dff757737659647f7d90f5e"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "7308954ec68ead6840f1c5774a7b1465c0f8c8f8cf110ee8ba77952229930ffa"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "bb53f05c22123d1f28a86e60e9f03050eed6113bd0179f01256089ae46ec0b0c"
+hash = "4c2bd01c8a2a785584e595289f76d140806877c4f170acfffd9f4285fc7883fc"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "46ac5822410dcc453731382dab9d23eef7cd3773e040c3dd3c6d5d0d88a4b21c"
+hash = "c435f3d84cc0e70c0d325d3fd0e2a100b2832ec4a64e882a35d1bce857842ce3"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
+hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
 metafile = true
 
 [[files]]
@@ -845,8 +845,8 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+file = "mods/regenerative-sleep.pw.toml"
+hash = "62ecbb3cf8d3ecf1293b6f4f8a1cab4edbf638a9e1e67dd307f2356f0fc86946"
 metafile = true
 
 [[files]]
@@ -867,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "c655c000e12252d821dcfe311d31cbe62f83bbbc07cf8f22ba426045caa99cec"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
@@ -936,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "7e779c0d2ba3c4094b9460205deb1c9900ca1f57c277ce77cb55446120ee11c4"
+hash = "251d37412da332ca58343b31b32f1b4b3dfecbb6149cbbfafc3199c4750866bd"
 metafile = true
 
 [[files]]
@@ -1031,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "6d4923e88930b20dfcff06cc120c7b064659fe8332153bf7e94c3a64491eab96"
+hash = "58d59a69d6331a60232f3de178579ad6247c2d3bafc1dadf93bb510930ec83ee"
 metafile = true
 
 [[files]]
@@ -1045,47 +1050,59 @@ hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/bountifulfares/texts/splashes.txt"
+file = "resources/datapack/required/encrypted additions/data/affinity/recipe/aspen_infusion/azalea_bow.json"
+hash = "6ad0d3a6ac67f63745d9168b9bea770338e320c553d11f11516f7c873b3c049b"
+
+[[files]]
+file = "resources/datapack/required/encrypted additions/data/fwaystones/recipe/abyss_watcher.json"
+hash = "d9ea60e61026f77c3530ab656aab7bedaf1a2314b08c4858166d1790d1c37eda"
+
+[[files]]
+file = "resources/datapack/required/encrypted additions/pack.mcmeta"
+hash = "e8e81dac90aa99013578d3db0ff12a44a4e74db9173610dcfd7746ec65d271be"
+
+[[files]]
+file = "resources/resourcepack/required/encrypted group/assets/bountifulfares/texts/splashes.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/texts/splashes.txt"
 hash = "9f9bb45476c824964c4eb41e791a4db2a4ce6123d791ca108b89f3f47a37ad51"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_0.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "b88bbf1e62172534962b822d256622631dafb87fd537f280064a5d59a1f2758c"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_1.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "fb306acf7f80497bcbbbeb8bea93080019463b949a56b621f106f1117adc227f"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_2.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_2.png"
 hash = "bc0041354af41d10eae8d3103f14bfcbf83e54cb5a89c2ee571aa0afa9be5954"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_3.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_3.png"
 hash = "8308f367162c443969e827e2227fc331dce6e89c902ffd85424e4b7dc78761b5"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_4.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_4.png"
 hash = "4ab65616bbbe0f1b9d1a5c12d585c3efadb5e8e5dd11fb8781cd6fbfe3e8c0db"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/minecraft/textures/gui/title/background/panorama_5.png"
+file = "resources/resourcepack/required/encrypted group/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "629fa16d5c989b91ea487d14d3ceb0cbe571b9ab813fa5842199868c1a0ba38e"
 
 [[files]]
-file = "resourcepacks/encrypted group/assets/trailiertales/texts/splashes.txt"
+file = "resources/resourcepack/required/encrypted group/assets/trailiertales/texts/splashes.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "resourcepacks/encrypted group/pack.mcmeta"
+file = "resources/resourcepack/required/encrypted group/pack.mcmeta"
 hash = "3a0e123ea8e72e4a11293ea4509efb9be8e46989c0e77a9b95151c64e3f441f2"
 
 [[files]]
-file = "resourcepacks/encrypted group/pack.png"
+file = "resources/resourcepack/required/encrypted group/pack.png"
 hash = "c704e9b7c69f164af52fcdeefa5177493d9489bcd47555612976b1dc060adaf2"
 
 [[files]]
