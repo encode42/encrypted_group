@@ -34,7 +34,7 @@ hash = "2e3b4cd45c551622407113056af110da99d317cc2314e6710503173674045bbf"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "76958588b657206be5079b270baa83ff57faf28ca5e8bd8898091a2cdc077614"
+hash = "3ce76a38719f4834fca9471ec65428d6efa07dc5d8eed943a1a62e0448596d32"
 
 [[files]]
 file = "config/ping-wheel.server.json"
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c435f3d84cc0e70c0d325d3fd0e2a100b2832ec4a64e882a35d1bce857842ce3"
+hash = "b658a53d19248a392e33a985bf5c708ed978eff12891d49207764cfeccf2ec63"
 metafile = true
 
 [[files]]
