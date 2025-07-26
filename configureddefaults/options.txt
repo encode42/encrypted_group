@@ -1,4 +1,5 @@
 version:3955
+toggleCrawl:true
 ao:true
 biomeBlendRadius:2
 enableVsync:true
@@ -122,6 +123,12 @@ key_legendarytooltips.key.scrollTooltips:key.mouse.4
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.affinity.activate_evade_ring:key.keyboard.z
 key_key.affinity.select_staff_from_bundle:key.keyboard.x
+key_key.aileron.smokestack_boost:key.keyboard.unknown
+key_key.clientsort.group.edit:key.keyboard.unknown
+key_key.clientsort.group.op.sort:key.mouse.middle
+key_key.clientsort.group.op.stackFill:key.keyboard.unknown
+key_key.clientsort.group.op.transfer:key.keyboard.unknown
+key_key.crawl:key.keyboard.caps.lock
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.unknown
 key_key.goop.clear:key.keyboard.unknown
@@ -149,7 +156,7 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.5
 soundCategory_music:0.1
-soundCategory_record:0.1
+soundCategory_record:0.02
 soundCategory_weather:0.25
 soundCategory_block:0.25
 soundCategory_hostile:0.5
