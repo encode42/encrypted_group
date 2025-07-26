@@ -978,6 +978,11 @@ hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
 metafile = true
 
 [[files]]
+file = "mods/stayexperienced.pw.toml"
+hash = "d17c66ffa9905c0be88c79f95eae7f59a096e4307c14654676185a041e329a87"
+metafile = true
+
+[[files]]
 file = "mods/stretchy-leash.pw.toml"
 hash = "befef77b355c0f57bc973bd9c98cece3a269ca753d321c02a83bdd78cc1018a6"
 metafile = true
