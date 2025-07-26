@@ -1,6 +1,6 @@
 name = "Client Sort"
 filename = "clientsort-fabric-2.0.0-beta.10+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K0AkAin6/versions/Dz9VrsAi/clientsort-fabric-2.0.0-beta.10%2B1.21.1.jar"

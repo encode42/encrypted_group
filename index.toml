@@ -105,6 +105,10 @@ file = "configureddefaults/config/betterclouds-v1.json"
 hash = "4585c9e91dffbac67592fc466998444791bdba735ba0eda91e0c6142d9aec64d"
 
 [[files]]
+file = "configureddefaults/config/clientsort.json"
+hash = "dbd7833f8f91b0186af9b4874c3b9184163950ba3cb63ca677d29c07bbeeb296"
+
+[[files]]
 file = "configureddefaults/config/emi.css"
 hash = "09298324348ee5fc12c7de789d2120fa6700526fbba562c7ef5b2c9c65b3129a"
 
@@ -350,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "5cc2be993463f119b9a2551b758a332b2fb8fab599fe65cdd1ac7db53050c804"
+hash = "627c2f75fe092d7a6d20e44a15ffc5914355ccb5aa847d5d9f2c235327342f92"
 metafile = true
 
 [[files]]
