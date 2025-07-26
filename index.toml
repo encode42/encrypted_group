@@ -58,7 +58,7 @@ hash = "88ae0291aebcdd77e264f253707e085f6ef9ac18f7099d4154c2bdf27413f709"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "26c951f0a80861cfdfc041409dd831c6da37432576cb6ef8026fff22db64ed31"
+hash = "ceece32e88c8b646043f7c293ad262e58990bcef7e8582476b280b6313d2fe43"
 
 [[files]]
 file = "config/spark/config.json"
