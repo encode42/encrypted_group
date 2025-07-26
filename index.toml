@@ -58,7 +58,7 @@ hash = "88ae0291aebcdd77e264f253707e085f6ef9ac18f7099d4154c2bdf27413f709"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "ea297c6f8cada8ee900653c5c3a4d684140f3c5cbc5329293febec58cd8d0daf"
+hash = "3afc752268b07fec0b47ac2f9f18f94760604d6848aed746cab05b7331e26607"
 
 [[files]]
 file = "config/spark/config.json"
@@ -975,11 +975,6 @@ metafile = true
 [[files]]
 file = "mods/starcaller.pw.toml"
 hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
-metafile = true
-
-[[files]]
-file = "mods/stayexperienced.pw.toml"
-hash = "d17c66ffa9905c0be88c79f95eae7f59a096e4307c14654676185a041e329a87"
 metafile = true
 
 [[files]]
