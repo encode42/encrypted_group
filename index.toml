@@ -50,7 +50,7 @@ hash = "a27aa71349bf89f49bd74819a78ae49f6eaa3197b73d50c40987112b2e1746b5"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
-hash = "da5c5cc885336357dcfc44b6ed0fd4192dcdb5cde9664eba03d11a09e8eb1249"
+hash = "a41b31b009f98d249c8a0cbbadd31996c13b8102e8a6c23041921b023e6b537c"
 
 [[files]]
 file = "config/rpg_series/loot_equipment_v2.json"

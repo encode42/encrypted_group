@@ -66,13 +66,13 @@ settings:
       threads: -1
     # The number of process-threads to use for loading and scanning chunks.
     # Value of -1 will use 50% of the available cpu-threads. (recommended)
-    render-threads: -1
+    render-threads: 1
     gc:
       # Runs the JVM GC after a render job stops to free up memory immediately.
       when-finished: true
       # Runs the JVM GC aggressively while a render is running
       # CAUTION: this _will_ slow down your renders!
-      when-running: false
+      when-running: true
 world-settings:
   default:
     # Enables this world to be rendered on the map.
