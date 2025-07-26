@@ -246,6 +246,11 @@ hash = "a7fa760bda4e3379db6f45edd16687709254bccab7b7aedbcbcf6ee53fad6404"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "453beec2e7ff20ef94e1a15c5c185c22f63a452b12e6abb14f027b3ff3539a56"
+metafile = true
+
+[[files]]
 file = "mods/alchimiae-magicae.pw.toml"
 hash = "9551c7c9e0b1bbef078cd61b8cc292df93510e99d107228259203b5086c17f37"
 metafile = true
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "cf1143762baff7eb7aa537ea1c1b8aa0e3a45cd151949f4c6665172e83c51bdc"
+hash = "3c87c84aafac55dba46366a00a8a5aae3661cd8672fced6264a6f787caddc11b"
 metafile = true
 
 [[files]]
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "5cc2be993463f119b9a2551b758a332b2fb8fab599fe65cdd1ac7db53050c804"
 metafile = true
 
 [[files]]
@@ -402,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/elemental-wizards-rpg.pw.toml"
-hash = "285187738c2b5b884112fba7744107af8dbc7d6aa7f52f1d4e7772b01d9ac48b"
+hash = "3d07e0be6c595f020d3ba2f6b66ea6d9bd57e4682b3ee009e375c75e28214bdf"
 metafile = true
 
 [[files]]
@@ -636,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "4c2bd01c8a2a785584e595289f76d140806877c4f170acfffd9f4285fc7883fc"
+hash = "ebe7865e440d1ab0cac54521099d564f93fc34f231bb3e273ab0410fe752e04d"
 metafile = true
 
 [[files]]
@@ -711,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-rpg-classes.pw.toml"
-hash = "aa17b2b19ea82a7b131936d66fbc82b28e54382b2b6ae6a23e2f3384b605c82f"
+hash = "daff260bafc3fb214a3da20a33e426f794bf3fde693869ab640ec329d51694c2"
 metafile = true
 
 [[files]]
@@ -726,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "91b76b7be4c6f7d6cc40ba7fcbc63064d75ccbcf4a75ac8d25163fe63b8225d0"
+hash = "dbdbf510afd7c5f8d658cec0c99c93f87a903b5d327c06ea56bc1e435c425333"
 metafile = true
 
 [[files]]
@@ -926,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "1658960ca46cdb3d21029d608c4daa8344bf8b7a802ec0031f52220b14ba39ef"
+hash = "373bee14263bd8c1b285d93a2793a51c84e34b0d0065a1be7b425c5aac6e8285"
 metafile = true
 
 [[files]]
@@ -957,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/starcaller.pw.toml"
 hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
+metafile = true
+
+[[files]]
+file = "mods/stretchy-leash.pw.toml"
+hash = "befef77b355c0f57bc973bd9c98cece3a269ca753d321c02a83bdd78cc1018a6"
 metafile = true
 
 [[files]]
