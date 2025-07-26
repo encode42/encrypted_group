@@ -21,6 +21,14 @@ file = "config/affinity.json5"
 hash = "8d1a4d1c18031af90f936299a5533d1331b130759c52272f66f003cb60b6913e"
 
 [[files]]
+file = "config/aileron.json"
+hash = "3b054891df8462b327b38f6bf7ae4d3184cfdef7a9fc81974bfdaca0e0f456e9"
+
+[[files]]
+file = "config/betterendisland-fabric-1_21.toml"
+hash = "5556004859fa699b2264d390550433d26ffb1c430cac7942162e9c1e75ca2c1a"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "c84bdc83fce7947882d1b08283a7f4d29a246f1ed6b91fcc171d1f5bf435d61c"
 
@@ -34,7 +42,7 @@ hash = "2e3b4cd45c551622407113056af110da99d317cc2314e6710503173674045bbf"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3ce76a38719f4834fca9471ec65428d6efa07dc5d8eed943a1a62e0448596d32"
+hash = "3a109de7b09dc6b07d8a88eb490571f9e539d71936fb9365509df37c03c335a7"
 
 [[files]]
 file = "config/ping-wheel.server.json"
@@ -182,7 +190,7 @@ hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
 
 [[files]]
 file = "configureddefaults/config/sounds/mod_utils.json"
-hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
+hash = "eee8c5b78475a218fc05b4d178baae42be44c4d1d529e249a8da126057b08182"
 
 [[files]]
 file = "configureddefaults/config/sounds/ui.json"
@@ -206,7 +214,7 @@ hash = "66df800b029bf6d84eea788e25c89a501e553d00cfce9c6e40d8e7aea7767972"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "dbdffc580290c2f3e0ecc6ab8115a49ba476e5950d37f23106c67a051f542f93"
+hash = "73c4b7488750d9fefc5675a2522ac4f4ad6947e598e5b86f09f8deac4c28d879"
 
 [[files]]
 file = "configureddefaults/server.properties"
@@ -646,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ebe7865e440d1ab0cac54521099d564f93fc34f231bb3e273ab0410fe752e04d"
+hash = "a5e7f3303f65a469b04d6ff98f5f0da7aaecbca35461b3fcb80c50fc996150fa"
 metafile = true
 
 [[files]]
@@ -961,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "7c5720177f0c9eae683d8c06455c922a50a01ae4e868c4c78ec3d430e67231ad"
+hash = "22804247dd8a0bde2ffcdf94c1da0150b0fe572534602f2eb6a6188d5eab2e64"
 metafile = true
 
 [[files]]
@@ -1062,6 +1070,16 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "bf19e625128ceb5223d2c21dd2ee1195bec5ff7c016b9dbdc866dacb481f8634"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "a9f7ce3ef90cd500e451ff6534d42f0532150d5f207c974468295fbe8c7b5a47"
 metafile = true
 
 [[files]]
