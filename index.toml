@@ -106,7 +106,7 @@ hash = "4585c9e91dffbac67592fc466998444791bdba735ba0eda91e0c6142d9aec64d"
 
 [[files]]
 file = "configureddefaults/config/clientsort.json"
-hash = "dbd7833f8f91b0186af9b4874c3b9184163950ba3cb63ca677d29c07bbeeb296"
+hash = "b1bbc68f68c7adb78f550b3a41d80387c47156c8e2da73a91437f586a4122280"
 
 [[files]]
 file = "configureddefaults/config/emi.css"
@@ -1004,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/substrate.pw.toml"
 hash = "67c458fe6aed12125b9c4362fbe898026a7b751491d47586012371caa6da12c8"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
 
 [[files]]
