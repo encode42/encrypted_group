@@ -273,6 +273,11 @@ hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "ba2d1f9eafa6fa59246b7e4565b641bdc07cb1ddd5bb5cac0d3578c2010736dd"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a1186d955fd44fb241db87c68a6babce4c8b32230db8962142b506b2cc3b2f38"
 metafile = true
@@ -405,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
+file = "mods/cut-stone-for-cobble.pw.toml"
+hash = "81d7e514425e2c2cdc77f9ef50a371fbfbdfadd07c7e52b2c01dd11c9ca5327f"
 metafile = true
 
 [[files]]
@@ -847,6 +857,11 @@ hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
 
 [[files]]
+file = "mods/purpurpack-blasting-smelts-glass.pw.toml"
+hash = "8498c36d0d0ee7e542a973d84f934897b220be7cb111a3ee369fbcdac62d1319"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
@@ -1098,6 +1113,10 @@ hash = "6ad0d3a6ac67f63745d9168b9bea770338e320c553d11f11516f7c873b3c049b"
 [[files]]
 file = "resources/datapack/required/encrypted additions/data/fwaystones/recipe/abyss_watcher.json"
 hash = "d9ea60e61026f77c3530ab656aab7bedaf1a2314b08c4858166d1790d1c37eda"
+
+[[files]]
+file = "resources/datapack/required/encrypted additions/data/hibernalherbs/loot_table/modifiers/lingering_potions.json"
+hash = "a578da94aa40c677d9f9c06d599b2902073b9c6a6e6ca87193e42c3a3f14f0b9"
 
 [[files]]
 file = "resources/datapack/required/encrypted additions/pack.mcmeta"
