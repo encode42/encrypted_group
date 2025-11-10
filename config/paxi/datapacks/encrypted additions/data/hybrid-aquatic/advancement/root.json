@@ -18,9 +18,9 @@
     },
     "title": {
       "translate": "advancements.hybrid-aquatic.enter_water.title"
-    }
+    },
+    "announce_to_chat": false
   },
   "requirements": [["enter_water"]],
-  "sends_telemetry_event": true,
-  "announce_to_chat": false
+  "sends_telemetry_event": true
 }
