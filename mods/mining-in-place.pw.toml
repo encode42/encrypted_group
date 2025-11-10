@@ -1,6 +1,6 @@
 name = "Mining In Place"
 filename = "mininginplace-0.7.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PvJc8LtG/versions/U8p4Ms9y/mininginplace-0.7.1.jar"
