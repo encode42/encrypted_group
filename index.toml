@@ -793,6 +793,11 @@ hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
+file = "mods/copper-backport.pw.toml"
+hash = "68146ff0d4a3f9d83391f672d378edc68e792e9d416f8c08e8c6b1c46d46a5f9"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
 metafile = true
