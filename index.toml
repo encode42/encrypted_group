@@ -166,7 +166,7 @@ hash = "7393108f8009d0d6f674c264f4524527c10175d588c76e96f1f4cd207a683d82"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "369e27c8946d63978153458b922d5116a6828d287ca4ef343613607d36f5063a"
+hash = "90a759e1ba8e9d804ba1975de19305e33a1ef127f7e2d5698c92e5aef0caa401"
 
 [[files]]
 file = "config/leashedplayer/LeashedPlayerCommonConfig/LeashPlayer-1.toml.bak"
@@ -591,6 +591,10 @@ hash = "3c33248b631d9b851779b227159bf460e15fbbc70b8abc01c8c8de44762fbf7a"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "13cb4fcff17c88cdab65af22dee3eb8a1e5c25c5a15b2fb268006d5c8415b26b"
+
+[[files]]
+file = "configureddefaults/server.properties"
+hash = "cfa72ae088e20bb3357b28db09874aece988b8faaa5978f73ee5e8547ce889ad"
 
 [[files]]
 file = "credits.md"
@@ -1189,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "f861cdc13a2ff4a379fb69df268e2350733d26b794c95c17428c91d1ad6a8ddb"
+hash = "882b7ef150e03885865ae89ff47e072058999f743d449ca96ed9a6f71d412c8d"
 metafile = true
 
 [[files]]
