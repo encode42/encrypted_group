@@ -1,13 +1,14 @@
 name = "Clavis"
-filename = "Clavis-NEOFORGE-0.2.7+1.21.1.jar"
+filename = "Clavis-NEOFORGE-0.2.4+1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/y9Xnig6p/versions/K22qpXCB/Clavis-NEOFORGE-0.2.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/y9Xnig6p/versions/CFczaKCR/Clavis-NEOFORGE-0.2.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f59ce7dc9ecfba9734ed55e8b32cc2e16edab3ee8b064b2a6ec118e64391b245f5667376e6aea903f5c9d16b35d42f455dd627000e2e4751ad5e7620e1b2fa7d"
+hash = "fffb69cf64b08394f110ecb942b488b75e6c385378f09f0a70447f1f8232904eab5421a72a831f800f5e95095d51307da544b7acdde5d3903d235a2e952f0c6c"
 
 [update]
 [update.modrinth]
 mod-id = "y9Xnig6p"
-version = "K22qpXCB"
+version = "CFczaKCR"
