@@ -1,13 +1,13 @@
 name = "Substrate"
-filename = "substrate-4.0.jar"
+filename = "substrate-4.1-Beta.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zNuzb72d/versions/UwPSxmKK/substrate-4.0.jar"
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/np1S96YY/substrate-4.1-Beta.2.jar"
 hash-format = "sha512"
-hash = "083e5138f457779cff5e72b7562aad6662d46bfe901a674b215405439a6e4a27dc7aa88f45eb190676f8526015ec30e998e9126f02f295739205cc3959afdc25"
+hash = "60c18a8167abd513f0b9fa4f98136943010c7e8a605dd2ded90d26f81590492889a1387dc9d0b2c60a6b65298b839583400256bb6b2eec3ea77364d455f7be62"
 
 [update]
 [update.modrinth]
 mod-id = "zNuzb72d"
-version = "UwPSxmKK"
+version = "np1S96YY"

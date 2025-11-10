@@ -1,13 +1,13 @@
 name = "Gemforged"
-filename = "gemforged-3.1.0+mc1.21.1.jar"
+filename = "gemforged-4.0.0+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tBbl8HuV/versions/l3I5QDTK/gemforged-3.1.0%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tBbl8HuV/versions/4OZyC5GA/gemforged-4.0.0%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "63341321580f8ddf105f1d566b3132146527b6f273cdd6cd5e45b6be7517c52e09fc0691a431444ca18f3b68bf15e2df669f9b9d9ff9baa0ac473a1da738998b"
+hash = "90dfbacd300705d4e262f480dd5cb102026827dfe2a98f8667fdd451de5a9d147e1e240f57d81d05ea9f937ee4a7fdce76c873bc4c148096b3b273dfbed2dcb7"
 
 [update]
 [update.modrinth]
 mod-id = "tBbl8HuV"
-version = "l3I5QDTK"
+version = "4OZyC5GA"
