@@ -594,16 +594,15 @@ hash = "13cb4fcff17c88cdab65af22dee3eb8a1e5c25c5a15b2fb268006d5c8415b26b"
 
 [[files]]
 file = "credits.md"
-hash = "a7dbd67b9fbd521aa57cae2fe9edc468dc91c1115cc168898da570615108c56e"
+hash = "62eabb581197c33c7c7c0a8f6e10cc28c88c3b9353f977aa3a55e77c0e13f452"
 
 [[files]]
 file = "mods/Graveyard-neoforge-1.21.1-2.6.2.jar"
 hash = "a405063e5bc5667aa4d570c2906cd5afb96bce68804e557ef45fcd33f052b339"
 
 [[files]]
-file = "mods/abundant-atmosphere.pw.toml"
-hash = "902c22042def79e24e42531e388d043c5396a544021cdc14c1e2fec4e80b5259"
-metafile = true
+file = "mods/abundant_atmosphere-1.21.1-2.0.0-beta-neoforge.jar"
+hash = "e6efdf2fd69143762da792fa5c81178cbaf3d7d62f5336186e367359345c390b"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -622,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
-hash = "e30ba5c8e77e4e5381e4deed8f047788d04c37af5671b7e691f530901890cdaf"
+hash = "3ef06116165a362b37e3622e4b78b49b33a5d8707d38c2243b2014f9ba35fa01"
 metafile = true
 
 [[files]]
@@ -761,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/clavis.pw.toml"
-hash = "976bed78e6f275f5bf51fa98d1cebe729c1ace0f09066d761988f74e17ba84f7"
+hash = "c524fb6d21f370e2ceb93edf7326f13658d311a079ea851345bcd60a93440fa5"
 metafile = true
 
 [[files]]
