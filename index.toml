@@ -594,7 +594,7 @@ hash = "13cb4fcff17c88cdab65af22dee3eb8a1e5c25c5a15b2fb268006d5c8415b26b"
 
 [[files]]
 file = "credits.md"
-hash = "a6463ac8a2573adb2505f80fdf4d78ff8d915e1966d9c9c46f6b31299ad9102e"
+hash = "a7dbd67b9fbd521aa57cae2fe9edc468dc91c1115cc168898da570615108c56e"
 
 [[files]]
 file = "mods/Graveyard-neoforge-1.21.1-2.6.2.jar"
@@ -726,9 +726,8 @@ hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
-metafile = true
+file = "mods/bluemap-5.7-neoforge.jar"
+hash = "b4a58a2d0f377c2e40604dd0466c8df2cbcdd58a0ff375ba9fee686c17f226c2"
 
 [[files]]
 file = "mods/bossesrise.pw.toml"

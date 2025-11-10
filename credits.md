@@ -2,6 +2,8 @@
 - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
   * [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
 - [Bad Mobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- [Bluemap](https://github.com/BlueMap-Minecraft/BlueMap/issues/708)
+  * Patched to work with other mods that provide Adventure.
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [Create Deco](https://github.com/encode42/CreateDeco)
   * Fork that downgrades the in-development build to Create 6.0.6.
