@@ -6,7 +6,7 @@ hash = "892563e216b68379f1d5fcd44f4bd5352c95d5bc5cbc888470f5e97d164dce1e"
 
 [[files]]
 file = "config/MiniMOTD/icons/encrypted_group.png"
-hash = "de347ba5f6a86571c3b3c474cb871e6ba9e6ef1977b6266ec9386bb25dca66d4"
+hash = "01d7459037f1d531651e37f7dff837f710e29fd807e04347f56747bae2098f29"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
