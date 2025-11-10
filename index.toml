@@ -166,7 +166,7 @@ hash = "7393108f8009d0d6f674c264f4524527c10175d588c76e96f1f4cd207a683d82"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "90a759e1ba8e9d804ba1975de19305e33a1ef127f7e2d5698c92e5aef0caa401"
+hash = "f825bd4ac61a80bedfb75eda7c2e50486b6bc4db6a5e79a9d4f75bbee3b0fcdf"
 
 [[files]]
 file = "config/leashedplayer/LeashedPlayerCommonConfig/LeashPlayer-1.toml.bak"
