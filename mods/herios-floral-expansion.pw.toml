@@ -1,0 +1,13 @@
+name = "Herios' Floral Expansion"
+filename = "herios_floral_expansion-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yuwM5nCb/versions/wrShaQJS/herios_floral_expansion-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f65548f624fbfeed4b05e5ffe272b5578427c545447168134652bd0c5314504e5329cba7215ea026625c0706bc1bad9adc2a2481ec64a5a42a58e2bcce6d11e8"
+
+[update]
+[update.modrinth]
+mod-id = "yuwM5nCb"
+version = "wrShaQJS"

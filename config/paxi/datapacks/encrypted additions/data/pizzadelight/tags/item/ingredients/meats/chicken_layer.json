@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:chicken_cuts",
+    "farmersdelight:cooked_chicken_cuts",
+    "arsdelight:wilden_meat_slice",
+    "arsdelight:grilled_wilden_meat_slice",
+    "arsdelight:chimera_meat_slice",
+    "arsdelight:grilled_chimera_meat_slice",
+    "aethersdelight:raw_moa_cuts",
+    "aethersdelight:cooked_moa_cuts",
+    "deep_aether:raw_quail",
+    "deep_aether:cooked_quail"
+  ]
+}

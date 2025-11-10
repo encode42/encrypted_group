@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Nature's Spirit"
+filename = "farmers-cutting-natures-spirit-1.21.1-1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUhDIDyA/versions/5ir7iNDA/farmers-cutting-natures-spirit-1.21.1-1.0-neoforge.jar"
+hash-format = "sha512"
+hash = "2dcacfd92b2bbae556aafe512605283cc3b833fd63f2d1c91252e814f8e22a17c5f107d2757cbc3edd262d00a7a13db6c3ce6ff677b4ae623f764cfa86652d38"
+
+[update]
+[update.modrinth]
+mod-id = "sUhDIDyA"
+version = "5ir7iNDA"

@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+    "crabbersdelight:raw_clam_meat",
+    "crabbersdelight:crab",
+    "oceansdelight:guardian_tail",
+    "oceansdelight:elder_guardian_slice",
+    "hybrid-aquatic:raw_fish_meat",
+    "hybrid-aquatic:raw_fish_steak",
+    "hybrid-aquatic:raw_tentacle",
+    "hybrid-aquatic:raw_shrimp",
+    "hybrid-aquatic:raw_crab",
+    "hybrid-aquatic:raw_lobster",
+    "deep_aether:aerglow_fish"
+  ]
+}

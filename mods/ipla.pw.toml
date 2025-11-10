@@ -1,0 +1,13 @@
+name = "Ipla"
+filename = "ipla-1.21.1-neoforge-4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7dLiTaTa/versions/Mw8XVZrC/ipla-1.21.1-neoforge-4.5.jar"
+hash-format = "sha512"
+hash = "ead170deec60502031fb6bcd282ef7e10cf42225ad00778d4d0caa7a1123d4ad72a2636829c0f62809682c90632ffc5e1a664c19fd00d34537bf787816f6b4cd"
+
+[update]
+[update.modrinth]
+mod-id = "7dLiTaTa"
+version = "Mw8XVZrC"

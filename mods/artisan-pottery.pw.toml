@@ -1,0 +1,13 @@
+name = "Artisan Pottery"
+filename = "pottery-1.1.0-neoforge-1.21.1 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xG5cjXqe/versions/tQAEnCYW/pottery-1.1.0-neoforge-1.21.1%20%281%29.jar"
+hash-format = "sha512"
+hash = "06aa4329b74aab7a53c6207129da064b2a07fba6cd3066ec1673a97c15241788dcac4b464121b2a39ea9859d87c5acc7ac1466126aeeeea31985718ffbaed7f7"
+
+[update]
+[update.modrinth]
+mod-id = "xG5cjXqe"
+version = "tQAEnCYW"

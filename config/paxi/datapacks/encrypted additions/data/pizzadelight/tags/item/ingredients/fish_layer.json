@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:cod_slice",
+    "farmersdelight:cooked_cod_slice",
+    "farmersdelight:salmon_slice",
+    "farmersdelight:cooked_salmon_slice",
+    "hybrid-aquatic:cooked_fish_meat",
+    "hybrid-aquatic:cooked_shrimp",
+    "hybrid-aquatic:raw_fish_meat",
+    "hybrid-aquatic:raw_shrimp",
+    "minersdelight:cooked_arthropod",
+    "minersdelight:arthropod",
+    "crabbersdelight:cooked_pufferfish_slice",
+    "crabbersdelight:cooked_tropical_fish_slice",
+    "crabbersdelight:pufferfish_slice",
+    "crabbersdelight:tropical_fish_slice",
+    "oceansdelight:cut_tentacles"
+  ]
+}

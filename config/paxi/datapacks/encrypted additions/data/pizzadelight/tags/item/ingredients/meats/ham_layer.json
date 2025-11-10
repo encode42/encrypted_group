@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:bacon",
+    "farmersdelight:cooked_bacon",
+    "hearthandharvest:cooked_sausage",
+    "hearthandharvest:raw_sausage",
+    "mynethersdelight:hoglin_sausage",
+    "mynethersdelight:roasted_sausage"
+  ]
+}

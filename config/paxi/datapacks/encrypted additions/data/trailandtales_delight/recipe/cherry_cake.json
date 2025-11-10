@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "c": {
+      "item": "trailandtales_delight:cherry_petal"
+    },
+    "a": {
+      "item": "#c:foods/overworld_cheese_slices"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": ["###", "aca", "xcx"],
+  "result": {
+    "id": "trailandtales_delight:cherry_cake"
+  },
+  "show_notification": true
+}

@@ -1,3 +1,13 @@
+# v5
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+  * [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
+- [Bad Mobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Create Deco](https://github.com/encode42/CreateDeco)
+  * Fork that downgrades the in-development build to Create 6.0.6.
+- [The Graveyard](https://github.com/MapleSugar365/the-graveyard-1.21-fix/tree/1.21.1-neoforge)
+  * Fork that fixes a registry issue.
+
 # v4
 - [Fabric Tailor](https://github.com/MerchantCalico/FabricTailor/tree/modfest/25)
   * Fork that fixes issues with Mineskin

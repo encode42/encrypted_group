@@ -1,0 +1,13 @@
+name = "Electric Mace"
+filename = "ElectricMace-neoforge-1.21-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ksojQLy/versions/kaM3PTuQ/ElectricMace-neoforge-1.21-1.7.1.jar"
+hash-format = "sha512"
+hash = "23bc225ce69b23723aad87f46dab44a4f0bc21dc507ed1296deea12a676b38027af0e10d8b54b55ec2abef02b6834332810d1c9e8b66b1a452387bac15c56a83"
+
+[update]
+[update.modrinth]
+mod-id = "9ksojQLy"
+version = "kaM3PTuQ"

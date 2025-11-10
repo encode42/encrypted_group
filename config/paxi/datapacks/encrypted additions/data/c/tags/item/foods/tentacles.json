@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "hybrid-aquatic:raw_tentacle",
+    "hybrid-aquatic:cooked_tentacle",
+    "oceansdelight:tentacles"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Anvian's Lib"
+filename = "anvianslib-neoforge-1.21-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuTjrq4T/versions/wlKGp4XM/anvianslib-neoforge-1.21-1.4.1.jar"
+hash-format = "sha512"
+hash = "bb554b8c533e44f00a733cd2b44ea4c31b241a2efd1da777cf65054f496ac8d9305edc3880a8cfe4bacd767aa9ef96fe513d86fffc8ef25dd1a5d14c7c4af781"
+
+[update]
+[update.modrinth]
+mod-id = "PuTjrq4T"
+version = "wlKGp4XM"

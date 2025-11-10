@@ -1,0 +1,13 @@
+name = "Refined Types"
+filename = "refined-types-1.21.1-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WvQIise1/versions/uL1OGxRx/refined-types-1.21.1-0.2.4.jar"
+hash-format = "sha512"
+hash = "35885ca1ab60a23e82ab87252a022fd411ee522b1cc357806c4e2fc5d73670b4c8bfa7f08a17bd8cccac17d264f861b81f002b43d59b7e935a9ca4531d6eea43"
+
+[update]
+[update.modrinth]
+mod-id = "WvQIise1"
+version = "uL1OGxRx"

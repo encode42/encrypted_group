@@ -1,13 +1,13 @@
 name = "Substrate"
-filename = "substrate-3.1-1.21.x.jar"
+filename = "substrate-4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zNuzb72d/versions/hPl0EDpc/substrate-3.1-1.21.x.jar"
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/UwPSxmKK/substrate-4.0.jar"
 hash-format = "sha512"
-hash = "fb9ec98e39bc6160333f7e144e5294c38c3664f2309b587666ef6ee7a9b80a2501c35236d02891e9f33d25309bfedd879763179a9506a107067447c13cdf64fc"
+hash = "083e5138f457779cff5e72b7562aad6662d46bfe901a674b215405439a6e4a27dc7aa88f45eb190676f8526015ec30e998e9126f02f295739205cc3959afdc25"
 
 [update]
 [update.modrinth]
 mod-id = "zNuzb72d"
-version = "hPl0EDpc"
+version = "UwPSxmKK"

@@ -34,7 +34,7 @@
 	/**
 	 * Whether normal search queries should include the mod name.
 	 */
-	search-mod-name-by-default: true;
+	search-mod-name-by-default: false;
 
 	/**
 	 * Whether normal search queries should include the stack's tags.
@@ -46,7 +46,7 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-visibility;
+	recipe-book-action: toggle-craftables;
 
 	/**
 	 * Where to display status effects in the inventory.
@@ -141,7 +141,7 @@
 	/**
 	 * Whether recipes should have a button to set as default.
 	 */
-	recipe-default-button: true;
+	recipe-default-button: false;
 
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
@@ -338,13 +338,13 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.a";
+	favorite: "key.keyboard.f";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
 	 * recipe.
 	 */
-	default-stack: "ctrl key.mouse.left";
+	default-stack: "key.keyboard.unknown";
 
 	/**
 	 * Display the recipe tree for a given stack.
@@ -359,12 +359,12 @@
 	/**
 	 * Return to the previous page in EMI.
 	 */
-	back: "key.keyboard.backspace";
+	back: "key.mouse.4";
 
 	/**
 	 * Return to the next page in EMI after going back.
 	 */
-	forward: "key.keyboard.unknown";
+	forward: "key.mouse.5";
 
 	/**
 	 * When on a stack with an associated recipe:
@@ -405,17 +405,17 @@
 	/**
 	 * Cheat in one of an item into the inventory.
 	 */
-	cheat-one-to-inventory: "ctrl key.mouse.right";
+	cheat-one-to-inventory: "key.keyboard.unknown";
 
 	/**
 	 * Cheat in a stack of an item into the inventory.
 	 */
-	cheat-stack-to-inventory: "ctrl key.mouse.left";
+	cheat-stack-to-inventory: "key.keyboard.unknown";
 
 	/**
 	 * Cheat in one of an item into the cursor.
 	 */
-	cheat-one-to-cursor: "ctrl key.mouse.middle";
+	cheat-one-to-cursor: "key.keyboard.unknown";
 
 	/**
 	 * Cheat in a stack of an item into the cursor.
@@ -425,7 +425,7 @@
 	/**
 	 * Delete the stack in the cursor when hovering the index
 	 */
-	delete-cursor-stack: "key.mouse.left";
+	delete-cursor-stack: "key.keyboard.unknown";
 
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
@@ -435,12 +435,12 @@
 	/**
 	 * In edit mode, hide the hovered stack
 	 */
-	hide-stack: "ctrl key.mouse.left";
+	hide-stack: "key.keyboard.unknown";
 
 	/**
 	 * In edit mode, hide stacks with the hovered stack's id
 	 */
-	hide-stack-by-id: "ctrl shift key.mouse.left";
+	hide-stack-by-id: "key.keyboard.unknown";
 }
 
 #dev {

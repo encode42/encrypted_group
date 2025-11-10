@@ -1,0 +1,13 @@
+name = "Create: Deco Generators"
+filename = "decobuild-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fdbemrw5/versions/mGicnmBJ/decobuild-1.0.5.jar"
+hash-format = "sha512"
+hash = "7743636b76db950c5ed237d1dea45022b34c8b491460f9a5dd76e01e7f48a9f16cb71705705f0d7138df811216be4a2db55026821abb4183a8146919e05cc6fc"
+
+[update]
+[update.modrinth]
+mod-id = "Fdbemrw5"
+version = "mGicnmBJ"

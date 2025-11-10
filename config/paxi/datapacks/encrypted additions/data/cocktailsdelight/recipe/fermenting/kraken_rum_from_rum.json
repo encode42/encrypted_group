@@ -1,0 +1,41 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:tentacles"
+      }
+    }
+  ],
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "id": "cocktailsdelight:rum"
+    },
+    "unit": "millibuckets"
+  },
+  "fermentingtime": 7200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/tentacles"
+    },
+    {
+      "tag": "c:foods/berry"
+    },
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "cocktailsdelight:kraken_rum"
+  },
+  "temperature": 5,
+  "unit": "millibuckets"
+}

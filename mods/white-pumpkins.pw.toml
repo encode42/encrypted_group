@@ -1,0 +1,13 @@
+name = "White Pumpkins"
+filename = "WhitePumpkins-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIw0R1DW/versions/toPBQWWp/WhitePumpkins-neoforge-1.21.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "2b4cb91ce56acbf9308602cd289864298bce15f3bd3e7a6110dce40254a9d6c4e03fa4a8bc7f8d8b03a2f243ebf0247480ef2840d6406dd896f3cfd84ee4e0a2"
+
+[update]
+[update.modrinth]
+mod-id = "lIw0R1DW"
+version = "toPBQWWp"

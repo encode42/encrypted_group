@@ -1,0 +1,13 @@
+name = "Kobolds"
+filename = "Kobolds-3.0.35.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/oZ1IIHXj/Kobolds-3.0.35.jar"
+hash-format = "sha512"
+hash = "807ea2bd80bf8c5581ecc0bee8fcaf20d169bb7d8f38fe44be783c67f79b59a993b4b3a7d9e486ea76ae7416916bf96be8af494b5f0bc89f1538056125b0b2a9"
+
+[update]
+[update.modrinth]
+mod-id = "ufaxN0Ay"
+version = "oZ1IIHXj"

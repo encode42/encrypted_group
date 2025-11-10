@@ -1,0 +1,13 @@
+name = "Arda's Sculks (Deep Dark Dimension)"
+filename = "Arda's Sculks 1.4.3.3 [NEOFORGE] [1.21.1].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LfM2UVYA/versions/mUfyTjiI/Arda%27s%20Sculks%201.4.3.3%20%5BNEOFORGE%5D%20%5B1.21.1%5D.jar"
+hash-format = "sha512"
+hash = "398d8f2b696d5f579d33266bfffa237862a4ddafc10888f8045f0ab3664bb0e926c4515000143b07b3059665c4a085688e9b864d2a2b1bc1cb8536a16bfc1206"
+
+[update]
+[update.modrinth]
+mod-id = "LfM2UVYA"
+version = "mUfyTjiI"

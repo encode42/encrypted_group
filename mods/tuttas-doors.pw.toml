@@ -1,0 +1,13 @@
+name = "Tutta's Doors"
+filename = "alltuttasneeds-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVZogNXg/versions/jyasmhtt/alltuttasneeds-1.5.2.jar"
+hash-format = "sha512"
+hash = "cfebb5ded9ecfc97e27beb49e55de829c8384664d5bd45ee6b540c569568720f4aee281d4b2780ebd053341fd6d4efdbbc5656e799fbd12eda127a79e3150f94"
+
+[update]
+[update.modrinth]
+mod-id = "XVZogNXg"
+version = "jyasmhtt"

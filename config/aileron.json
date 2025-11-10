@@ -4,10 +4,10 @@
   "cameraRollScale": 1.0,
   "cameraRollSpeed": 0.1,
   "cloudskipperSpeedMultiplier": 1.0,
-  "cloudskipperCloudLevel": 192.0,
+  "cloudskipperCloudLevel": 208.0,
   "smokestackAirRecharge": false,
-  "smokestackChargeTicks": 20,
+  "smokestackChargeTicks": 40,
   "campfiresPushPlayers": true,
-  "campfirePushMaxStrength": 24.0,
-  "campfirePushBaseStrength": 10.0
+  "campfirePushMaxStrength": 64.0,
+  "campfirePushBaseStrength": 32.0
 }

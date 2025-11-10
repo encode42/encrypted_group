@@ -1,13 +1,13 @@
 name = "Structure Layout Optimizer"
-filename = "structure_layout_optimizer-fabric-1.0.10.jar"
+filename = "structure_layout_optimizer-neoforge-1.0.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/WgynUIut/structure_layout_optimizer-fabric-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/GCoftSqH/structure_layout_optimizer-neoforge-1.0.11.jar"
 hash-format = "sha512"
-hash = "2d921a3a603453b31f1d84ddf84b843d41e631fee7969339428702986bf4aae10c5160e11b60265b289913ba03c9d828abf15f624aec6761ea835817b48e9269"
+hash = "c50941151515909d0cc8f3e8e87dd23ec8a7f951d196093649fb68ea04ffdc95911cd5fa356f26f5ac826a88674ccc2fc3c4aa2f5d38527a77b490c6d80b456e"
 
 [update]
 [update.modrinth]
 mod-id = "ayPU0OHc"
-version = "WgynUIut"
+version = "GCoftSqH"

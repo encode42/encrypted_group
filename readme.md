@@ -3,7 +3,7 @@ A private kitchen sink pack designed for playing with friends on multiplayer ser
 
 This pack attempts to balance performance with content, allowing a wide range of computers to enjoy the pack. It's also designed to work exclusively with a server, with many mods marked to be installed only on either side. As such, you'll be missing many gameplay features by playing singleplayer!
 
-The current featured mods consist of various magic-related routes and classes, as well as vanilla-oriented changes. Additions rely on vanilla mechanics, and all world generation is derived from vanilla. There has also been a focus on not overwhelming the user, keeping with a consistent fundamental that a regular Minecraft player would understand.
+The current mod set doesn't have a gimmick! It's a ton of mods, with a ton of stuff to do, and more to come. Ideally, it all works together smoothly as well.
 
 It's also been a priority to keep performance in check. Every mod has been chosen and configured to minimize impact on the client. Of course, this is still a content-focused mod pack, meaning performance will still take a hit in busy areas.
 

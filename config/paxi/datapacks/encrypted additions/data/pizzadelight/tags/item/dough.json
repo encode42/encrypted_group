@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:wheat_dough",
+    "create:dough",
+    "valheim_delight:whole_wheat_dough",
+    "mynethersdelight:ghast_dough",
+    "mynethersdelight:ghast_sourdough"
+  ]
+}

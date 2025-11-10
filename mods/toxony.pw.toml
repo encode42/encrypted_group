@@ -1,0 +1,13 @@
+name = "Toxony"
+filename = "toxony-0.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XnNmSWmE/versions/PRBaJ8DX/toxony-0.10.5.jar"
+hash-format = "sha512"
+hash = "6742d9cc86a2eca35c1e58b4cb9577ccd9409e818c5a187ebd36aa6eea7dd4cf5baa70d66bbca30458c2f6cad539e5e009ebe0868b320ad133f0ca763185a9f0"
+
+[update]
+[update.modrinth]
+mod-id = "XnNmSWmE"
+version = "PRBaJ8DX"

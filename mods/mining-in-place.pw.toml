@@ -1,0 +1,13 @@
+name = "Mining In Place"
+filename = "mininginplace-0.7.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PvJc8LtG/versions/U8p4Ms9y/mininginplace-0.7.1.jar"
+hash-format = "sha512"
+hash = "4b8ab7af4ccb83278cda02591d2639c5329357ba57ea2aa7c465d14e3f734bcf150ae4674fb9d15f887c7f8f185f0c0b6433bd31f6cbf5616a9fdc0b8d5909cf"
+
+[update]
+[update.modrinth]
+mod-id = "PvJc8LtG"
+version = "U8p4Ms9y"

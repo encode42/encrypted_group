@@ -1,13 +1,13 @@
 name = "Hibernal Herbs"
-filename = "hibernalherbs-1.4.2+fabric-1.21.jar"
+filename = "hibernalherbs-1.4.3+neoforged-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8fBUTFL3/versions/s8IIqKaQ/hibernalherbs-1.4.2%2Bfabric-1.21.jar"
+url = "https://cdn.modrinth.com/data/8fBUTFL3/versions/OP0LQuBW/hibernalherbs-1.4.3%2Bneoforged-1.21.jar"
 hash-format = "sha512"
-hash = "b1bbb3e481935a718271cd69c1d47764fcc0391a9a8dfdd36e89f674f8385c330d78c1f1f67c249abd200ef63dd21d63361b1b669f7003d7f43b42f929de099e"
+hash = "3fcdb6a9fbd173cf38621dc39aae10554522e8a0389883d0fdf902ad98eb8b86bdcb062d1b983d3223d3f89193bde8406e95c83ec5ef4172445862b2583ec085"
 
 [update]
 [update.modrinth]
 mod-id = "8fBUTFL3"
-version = "s8IIqKaQ"
+version = "OP0LQuBW"
