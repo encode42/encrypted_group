@@ -138,11 +138,11 @@ hash = "9ca2eb5ab269c266fd1257fd55dc97498b76485af3a71f286a7e3a2536c6a1cf"
 
 [[files]]
 file = "config/fowlplay.json5"
-hash = "acfd271a709c36531bba125c3233cf115f3f89d9eabd38dc3094cfef5840d4fb"
+hash = "bb31928ae38aa0c71be656ff720cb57007a6597ee82aeb5ad7b45157604606f1"
 
 [[files]]
 file = "config/golemoverhaul.jsonc"
-hash = "5d23b8d3a8cad88a6ea83044e25da374ef01c1dc4007f71c28fd8853dac70648"
+hash = "b34f1144c258855b7d625728382290f9e5b80abd0017b8e80e88ee73916cc70d"
 
 [[files]]
 file = "config/graveyard-common.toml"
@@ -466,7 +466,7 @@ hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
-hash = "866acfa8159567bbdb1d32f2979d9b0eb5ae5684e63eddfe2360ab9c9d099e7d"
+hash = "8a1fff4a40321c329f31fbc3958b92494817b870f746ce9f19b4f08f6ab5c1e1"
 
 [[files]]
 file = "config/the_bumblezone/general.toml"

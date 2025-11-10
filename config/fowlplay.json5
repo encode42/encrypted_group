@@ -57,5 +57,5 @@
   robinMaxGroupSize: 2,
   sparrowSpawnWeight: 20,
   sparrowMinGroupSize: 2,
-  sparrowMaxGroupSize: 6,
+  sparrowMaxGroupSize: 6
 }
