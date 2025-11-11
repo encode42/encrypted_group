@@ -1,0 +1,13 @@
+name = "Soul Gravestone"
+filename = "soulgravestone-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tg0Dp2Jl/versions/N2p1s4gd/soulgravestone-1.0.2.jar"
+hash-format = "sha512"
+hash = "f4934fa5a1d322d1d69df87233a96cb4eae2e7979f43e72709adb4e5b363ba112193ec550c69da2f08843ad6d9348ffc7456aceddfc2b8f8382bffbc2bcb99bb"
+
+[update]
+[update.modrinth]
+mod-id = "tg0Dp2Jl"
+version = "N2p1s4gd"
