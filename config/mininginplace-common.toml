@@ -4,7 +4,7 @@
 #Invent control
 #Client configuration
 #By default, function stops while sneaking
-invent_control = false
+invent_control = true
 #创造模式下禁用
 #客户端配置
 #Disable at creative
