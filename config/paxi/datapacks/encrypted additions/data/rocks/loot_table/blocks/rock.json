@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:andesite"
+          "name": "minecraft:cobblestone"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "rocks:blocks/andesite_rock"
+  "random_sequence": "rocks:blocks/rock"
 }
