@@ -342,7 +342,7 @@ hash = "d770fbab037d2ca8067344b64e697ae97d9db7da1440a3803fe1f6014349dd1c"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/neoforge/loot_modifiers/global_loot_modifiers.json"
-hash = "ef407d422e4b307d684de134ca5f0b379d8582fd93abcd7006de0dd9abbb45fa"
+hash = "50f873f884d47e88079277c6c19a81fe8587662835633f60b75ac8c5772ec56a"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/pizzadelight/recipe/farmersdelight/raw_pizza.json"
@@ -482,7 +482,7 @@ hash = "d80799a7c488b21c30a7d1b1af46e8424d9989447243582c98f1055b3cc09a71"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/pack.mcmeta"
-hash = "2e42a952125d261264bae2c51451fe9383e7fc197c2f9b5c4ac6886dd2d3bb39"
+hash = "91dbbdbce79d019d19a8fdc556f1cdf2236efd6a731f4da85b73475e1b7df1d0"
 
 [[files]]
 file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
