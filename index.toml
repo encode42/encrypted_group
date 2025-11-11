@@ -146,7 +146,7 @@ hash = "b34f1144c258855b7d625728382290f9e5b80abd0017b8e80e88ee73916cc70d"
 
 [[files]]
 file = "config/graveyard-common.toml"
-hash = "82bf058b87bf667d8b7d3e0a6ffdc37e31ee54d13a0de3385943915e394b5301"
+hash = "ee09d4809130363c6f39b8206019838498bf4d83d08641cd455c8d852420a6a6"
 
 [[files]]
 file = "config/illagerinvasion-server.toml"
@@ -182,7 +182,7 @@ hash = "21a4445b09b102fba8abec37d10af214a1b0a5a0ad65608e5aa6bf179f6d2c04"
 
 [[files]]
 file = "config/mininginplace-common.toml"
-hash = "bb9e594a9c740af8404b12dfe92b8d0858570d232f01573c346c2cacf480abe7"
+hash = "5f52b59dbfd82fb5ea6a3cfb8982ef9be19016e6d6a28dfcfd9a38f5c79925b0"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -245,6 +245,10 @@ file = "config/paxi/datapacks/encrypted additions/data/crabbersdelight/worldgen/
 hash = "0c5eca6318bfa21f521e9f4d2e22870635e2bcc08a8653b52c739c8bf7573b6f"
 
 [[files]]
+file = "config/paxi/datapacks/encrypted additions/data/crittersandcompanions/loot_modifiers/inject_clams.json"
+hash = "d30d6cc262b95075f7c696f2441e3b98b1bdc92b4244e19a4b9f106471c7c8c6"
+
+[[files]]
 file = "config/paxi/datapacks/encrypted additions/data/farmersdelight/recipe/cooking/clam_bake.json"
 hash = "9d788d4ac8acfcd1efdad1ab6bbcdaa94a0e8bba0c93362b0ce022ed0e4c2107"
 
@@ -259,6 +263,74 @@ hash = "6408bddee95d744be0e2b835b2f617af0ebd0681f85094f7ce8691bccedbc5b2"
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/hybrid-aquatic/advancement/root.json"
 hash = "1485aa8006d12d21325603760ef3d31837c2fd760b0c5cb362cb9b420e3829e5"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_black_wool.json"
+hash = "16fc194eab066c0fa7cb7b8b743fe41715499ef87522f19d09c9129b0ed74386"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_blue_wool.json"
+hash = "c72886ea4035676d5b37b0e659d1c12810ef323bff3fd5b685c41c19dcfbd586"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_brown_wool.json"
+hash = "68d6f66f64b9629540a49a85a17554676fb40ad30858b69364c48fb708f40ba1"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_cyan_wool.json"
+hash = "182c91989d75f6a1fdcfda67c1bbcc445063bdd0cae7b597d7a1f5b496e42d02"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_gray_wool.json"
+hash = "895923f2b7f4f33ab33518b1a1b5b432727d7d88a5faaa9084f0323b81baa3df"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_green_wool.json"
+hash = "d383d16845c6b33a063dda10d96364e8ffa46bfaafb63944a6025bbdd9e7d18c"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_light_blue_wool.json"
+hash = "3eee66a11672ee58dd7d98db7e515f4b6f219924469b4547008a9d1c770d2b7f"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_light_gray_wool.json"
+hash = "40c3e06f542099b08b602621be1e759bb07206af12e7f95beecaad26b272a6fc"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_lime_wool.json"
+hash = "9021886c07621328200c1ee906981b8952dfdee62564e1d3d821452d481fa592"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_magenta_wool.json"
+hash = "cdfd8e6a3f3a909b045183f82e700fdd053ad2ede6c26fa6ed69276993e641fe"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_orange_wool.json"
+hash = "46587938259c04d20b884ab6628fa36bf5ff55aa4564b1bc7e8fcfa63063cadf"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_pink_wool.json"
+hash = "3e1f8081f5af953bfc9dc971160fc1c2f6d10a2247da478839dd828b541468c9"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_purple_wool.json"
+hash = "a98ccf0210e13aa3335c5f89196c076c3700f840e89b817d1b58b0826ed50e5e"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_red_wool.json"
+hash = "8654f17415f784bd3c2f0f6d6cabbb0beae1802151f4ca15ca960384bd1a7ae6"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_white_wool.json"
+hash = "484c7f6062afe688c294f40ea78b0e1c8293a9e3a0ec232c483063dd9b098103"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_yellow_wool.json"
+hash = "d770fbab037d2ca8067344b64e697ae97d9db7da1440a3803fe1f6014349dd1c"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/neoforge/loot_modifiers/global_loot_modifiers.json"
+hash = "ef407d422e4b307d684de134ca5f0b379d8582fd93abcd7006de0dd9abbb45fa"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/pizzadelight/recipe/farmersdelight/raw_pizza.json"
@@ -326,7 +398,7 @@ hash = "e114e7096b429943c323c7078991dba8a3167d99ccdbd4bc7c694f783b68b3d1"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/rocks/loot_table/blocks/andesite_rock.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "8dbb2ee50c98eb1bed7c102f088287e2cb5fb9cf52ea3ddee02fa053ddda1305"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/rocks/loot_table/blocks/diorite_rock.json"
@@ -343,6 +415,10 @@ hash = "69b10473352f66057e97b0768a39e3eb237d320c6ba1b724bc84202f16621a28"
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/rocks/loot_table/blocks/netherrack_rock.json"
 hash = "f5de63aeddf59706f15c75a40e1700b8aac54732d55a4bb3ceaef9e60af82ddc"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/rocks/loot_table/blocks/rock.json"
+hash = "88590b1c2f0e32a70148877511e74b37809c892c37d76e4a1b2c0016692c37a6"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/data/rocks/worldgen/placed_feature/nether_geyser.json"
