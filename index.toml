@@ -229,6 +229,18 @@ file = "config/paxi/datapacks/encrypted additions/data/cocktailsdelight/worldgen
 hash = "b40da71ec749797fc52b8ec2250f213d4d56b572d6bcdea7a6e6891253ea67ff"
 
 [[files]]
+file = "config/paxi/datapacks/encrypted additions/data/crabbersdelight/loot_table/gameplay/crab_trap_loot/bucket_of_clawster_chum.json"
+hash = "8df1c27c96c81d1bc5174fbcabc70a365696885a668a891310bf42e771ace4ad"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/crabbersdelight/loot_table/gameplay/crab_trap_loot/bucket_of_shrimp_chum.json"
+hash = "421de961fb608a47edbdd428f34d5d6941c1186b758237996db8ae5d0cd02de2"
+
+[[files]]
+file = "config/paxi/datapacks/encrypted additions/data/crabbersdelight/loot_table/gameplay/fishing/fishing.json"
+hash = "82c8d5a8e58553f238b121cc95b6199dca15e0f039b5cfb9ff56e6f6f0ac1272"
+
+[[files]]
 file = "config/paxi/datapacks/encrypted additions/data/crabbersdelight/tags/item/cooked_seafood.json"
 hash = "0b147d75780bfd511936b2e4f447a19692276cbd6a46224f153fd4d537dfe776"
 

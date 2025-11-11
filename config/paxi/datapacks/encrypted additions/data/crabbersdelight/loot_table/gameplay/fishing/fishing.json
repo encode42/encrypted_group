@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "crabbersdelight:clam"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 35,
+          "name": "crabbersdelight:crab"
+        }
+      ]
+    }
+  ]
+}
