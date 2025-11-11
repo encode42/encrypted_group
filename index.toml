@@ -394,7 +394,7 @@ hash = "d80799a7c488b21c30a7d1b1af46e8424d9989447243582c98f1055b3cc09a71"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/pack.mcmeta"
-hash = "44b4cfff278b090955e274e96a90248aed4dc683b148ea301f3f82dd46a340c6"
+hash = "2e42a952125d261264bae2c51451fe9383e7fc197c2f9b5c4ac6886dd2d3bb39"
 
 [[files]]
 file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
@@ -459,6 +459,10 @@ hash = "1ef38592dd271ed783169ff169437a616b2056bd95bbe0c1379ea51d25240c20"
 [[files]]
 file = "config/sootychimneys-common.toml"
 hash = "4c40e4e1eaae8297c9ab29782fce5035a179b2805ccc82108106f53aba998bc2"
+
+[[files]]
+file = "config/soulgravestone-server.toml"
+hash = "4480f15349fee31f85db9ebb7093dcae4377e2657657868bdc65c41087a68512"
 
 [[files]]
 file = "config/spark/config.json"
@@ -1709,6 +1713,11 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
+metafile = true
+
+[[files]]
+file = "mods/soul-gravestone.pw.toml"
+hash = "c84ab4fd11f3fe202980f66c4a8cf52bac619e1495213886d727f0949447cd6b"
 metafile = true
 
 [[files]]

@@ -7,11 +7,15 @@
         "block": [
             {
                 "namespace": "^toxony$",
-                "path": "^structure/(hunter_watchtower|old_adventure_guild|old_experiment_house).*$"
+                "path": "^structure/(hunter_watchtower|old_adventure_guild|old_experiment_house).nbt$"
             },
             {
                 "namespace": "^relicsofrain$",
-                "path": "^structure/.*$"
+                "path": "^structure/(remnants|ruins)/.*$"
+            },
+            {
+                "namespace": "^relicsofrain$",
+                "path": "^loot_table/(ancient_remnants|spaceship_ruins).json$"
             },
             {
                 "namespace": "^minecraft$",
