@@ -16,10 +16,6 @@
             {
                 "namespace": "^relicsofrain$",
                 "path": "^loot_table/(ancient_remnants|spaceship_ruins).json$"
-            },
-            {
-                "namespace": "^minecraft$",
-                "path": "^structure/woodland_mansion/.*$"
             }
         ]
     }

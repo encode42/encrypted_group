@@ -341,6 +341,10 @@ file = "config/paxi/datapacks/encrypted additions/data/minecraft/recipe/dye_yell
 hash = "d770fbab037d2ca8067344b64e697ae97d9db7da1440a3803fe1f6014349dd1c"
 
 [[files]]
+file = "config/paxi/datapacks/encrypted additions/data/minecraft/worldgen/structure_set/woodland_mansions.json"
+hash = "b1c12c7506484404b6a4954ac69e2f14fadc11af20fc1b4a758202f8a829b833"
+
+[[files]]
 file = "config/paxi/datapacks/encrypted additions/data/neoforge/loot_modifiers/global_loot_modifiers.json"
 hash = "50f873f884d47e88079277c6c19a81fe8587662835633f60b75ac8c5772ec56a"
 
@@ -482,7 +486,7 @@ hash = "d80799a7c488b21c30a7d1b1af46e8424d9989447243582c98f1055b3cc09a71"
 
 [[files]]
 file = "config/paxi/datapacks/encrypted additions/pack.mcmeta"
-hash = "91dbbdbce79d019d19a8fdc556f1cdf2236efd6a731f4da85b73475e1b7df1d0"
+hash = "0d040f692d03483b3b97ad0bc42b6643d43c5a29f654e2cf7bb230490778a3eb"
 
 [[files]]
 file = "config/paxi/resourcepacks/encrypted group/assets/minecraft/texts/splashes.txt"
